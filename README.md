@@ -1,57 +1,105 @@
-<div align="center">
-  <a href="https://github.com/MarcosLutero">
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=marcoslutero&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"
-      alt="GitHub stats - marcoslutero"
-    />
-  </a>
+<h1 align="center">Olá, eu sou o Marcos Lutero 👋</h1>
 
-  <a href="https://github.com/MarcosLutero">
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoslutero&layout=compact&langs_count=7&theme=synthwave"
-      alt="Top languages - marcoslutero"
-    />
-  </a>
-</div>
+<p align="center">
+  Desenvolvedor Full Stack | JavaScript | TypeScript | React | Node.js | Java | Spring Boot
+</p>
 
-<br/>
+<p align="center">
+  Atuo no desenvolvimento de sistemas web, APIs REST, integrações com banco de dados e soluções voltadas para gestão pública, segurança e produtividade.
+</p>
 
-<div align="center">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
-</div>
+---
 
-##
+## 🚀 Sobre mim
+
+Sou desenvolvedor Full Stack com experiência em desenvolvimento de sistemas web utilizando tecnologias modernas de frontend e backend.
+
+Tenho experiência com:
+
+- Desenvolvimento de APIs REST
+- Sistemas administrativos e dashboards
+- Integração com bancos de dados relacionais
+- Desenvolvimento frontend com React
+- Backend com Node.js, Express, Sequelize e Java/Spring Boot
+- Testes de API com Postman
+- Docker e ambientes de desenvolvimento
+
+Atualmente estou evoluindo meus conhecimentos em **Java, Spring Boot, arquitetura backend e cloud**.
+
+---
+
+## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
-  <a href="mailto:marcos09rocha@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/lutero-rocha-418b50147/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nodejs,html,css,bootstrap,mysql,postgres,docker,git,github,postman,vscode" />
+
 </div>
 
-<!-- Snake: o ideal é gerar no SEU repositório. Veja instruções abaixo. -->
+---
+
+## 📊 Estatísticas do GitHub
+
 <div align="center">
-  <img
-    src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"
-    alt="Snake animation"
-  />
+
+<img 
+  height="170em" 
+  src="https://github-readme-stats.vercel.app/api?username=MarcosLutero&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+/>
+
+<img 
+  height="170em" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosLutero&layout=compact&langs_count=8&theme=tokyonight" 
+/>
+
 </div>
+
+---
+
+## 📌 Projetos em destaque
+
+### 🔹 API de Gerenciamento de Pedidos
+
+API backend para gerenciamento de pedidos, produtos, clientes, itens de pedido e pagamentos.
+
+**Tecnologias:** Java, Spring Boot, PostgreSQL, JPA, REST API
+
+---
+
+### 🔹 Sistemas Web Full Stack
+
+Projetos envolvendo frontend em React e backend em Node.js, com uso de banco de dados relacional, autenticação, rotas protegidas e dashboards administrativos.
+
+**Tecnologias:** React, Node.js, Express, Sequelize, MySQL, Bootstrap
+
+---
+
+### 🔹 Projetos de estudo
+
+Repositórios voltados para prática e evolução em desenvolvimento web, backend, frontend, APIs e boas práticas de código.
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+<a href="mailto:marcos09rocha@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/lutero-rocha-418b50147/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/MarcosLutero">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<p align="center">
+  Obrigado por visitar meu perfil!
+</p>
