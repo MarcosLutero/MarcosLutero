@@ -40,17 +40,20 @@ Atualmente estou evoluindo meus conhecimentos em **Java, Spring Boot, arquitetur
 
 ## 📊 Estatísticas do GitHub
 
+
 <div align="center">
 
-<img 
-  height="170em" 
-  src="https://github-readme-stats.vercel.app/api?username=MarcosLutero&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
-/>
+  <img 
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api?username=MarcosLutero&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;cache_seconds=1800&amp;v=2" 
+    alt="Estatísticas do GitHub de Marcos Lutero"
+  />
 
-<img 
-  height="170em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosLutero&layout=compact&langs_count=8&theme=tokyonight" 
-/>
+  <img 
+    width="36%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosLutero&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=1800&amp;v=2" 
+    alt="Linguagens mais usadas por Marcos Lutero"
+  />
 
 </div>
 
